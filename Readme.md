@@ -1,6 +1,8 @@
+# Hiring-Challenge
 
 
-**How to implement this an interpreter for this simple virtual machine for any  programming language your choice? ***
+
+## How to implement this an interpreter for this simple virtual machine for any  programming language your choice?
 To implement an interpreter for this simple virtual machine, you would need to create a program that can execute the assembly language instructions for the virtual machine. Here are the general steps you would need to take:
 
 1-Create a data structure to hold the register values, such as a dictionary or a hash table. The keys in this data structure should be strings that correspond to the register names, and the values should be integers that hold the register values.
@@ -20,16 +22,19 @@ Once all instructions have been executed, the program should exit or return the 
 It's worth noting that the above instructions are a starting point and you will need to validate the inputs, check for invalid instructions and handle other edge cases.
 
 
-**operating system**
+## operating system
 
-Windows 
-Linux 
+Windows.
 
-**How to run this Program** 
+Linux. 
+
+## How to run this Program
 
 1- To run this program, place the code in a Python compiler within your IDE. 
+
 2- Select a test file or create a new one with the ".asm" file extension. Remember to include the file name in the variable 'file_name' above the code. 
+
 3- Finally, execute the program within your IDE.
 
-**license**
+## license
 .....
