@@ -32,7 +32,7 @@ Linux.
 
 1- To run this program, place the code in a Python compiler within your IDE. 
 
-2- Select a test file or create a new one with the ".asm" file extension. Remember to include the file name in the variable 'file_name' above the code. 
+2- Select a test file or create a new one with the ".asm" file extension. Remember to include the file name in the variable 'file_name' above the code for the Virtualmachine.py or in the main Method for VirtualmachineClass. 
 
 3- Finally, execute the program within your IDE.
 
